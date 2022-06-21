@@ -1,0 +1,75 @@
+Cluster 0 :  integration,test,комплексные,испытания,marking,cp,to,cable,panel,control
+
+Cluster 1 :  insulation,flexible,rigid,jacket,with,protection,weather,tracing,electrical,heat
+
+Cluster 2 :  box,safety,junction,signals,mm?,awg,increased,protection,ex,to
+
+Cluster 3 :  gt,ss,for,with,plate,tag,rivets,support,spring,variable
+
+Cluster 4 :  head,heat,heated,электрооборудования,sleeves,washers,washer,for,block,composite
+
+Cluster 5 :  handrail,head,heat,heated,heater,hand,электрооборудования,block,composite,sps
+
+Cluster 6 :  of,terminal,для,шт,гибкий,ex,for,heated,enclosure,flexible
+
+Cluster 7 :  n1,panel,of,with,для,cp,cable,and,gasket,for
+
+Cluster 8 :  protection,box,for,gt,dc,_dc,and,panel,ups,battery
+
+Cluster 9 :  relief,flare,standard,air,enclosure,tank,flexible,rigid,protection,weather
+
+Cluster 10 :  heat,heated,hand,электрооборудования,for,spare,actuator,protection,weather,jacket
+
+Cluster 11 :  degc,at,design,ends,lbs,asme,gr,b16,per,as
+
+Cluster 12 :  cable,with,ventilation,oil,filled,breathing,forced,transformer,kv,hv
+
+Cluster 13 :  sealing,gasket,seal,уплотнение,for,stop,flushing,промывочное,кольцо,ring
+
+Cluster 14 :  steel,stainless,электронный,transmitter,electronic,сталь,преобразователь,давления,коррозионностойкая,pressure
+
+Cluster 15 :  line,cover,kt,accessories,uni,fan,винт,special,screw,gt
+
+Cluster 16 :  asme,bw,gr,per,astm,as,jss,impact,tested,in
+
+Cluster 17 :  опора,винт,шайба,bus,gt,x30,m16,ventilation,_ventilation,duct
+
+Cluster 18 :  iso4032,ventilation,iso4017,гайка,m12,шайба,m16,duct,iso,a4
+
+Cluster 19 :  kit,электрообогрева,для,for,base,plate,опора,spring,constant,support
+
+Cluster 20 :  light,break,handrail,cems,stack,gtg,gtc,platform,tos,el
+
+Cluster 21 :  with,inlet,thermowell,filter,преобразователь,давления,temperature,differential,pressure,transmitter
+
+Cluster 22 :  ends,asme,temperature,bw,gr,astm,at,design,degc,in
+
+Cluster 23 :  heat,h07v2,type,nameplate,for,power,non,enclosure,heated,rigid
+
+Cluster 24 :  heat,heated,hand,pad,part,sps,std,pads,acoustic,attenuation
+
+Cluster 25 :  stud,hhn,hex,b8m,set,bolt,cl,x18h10t,sa194,gost
+
+Cluster 26 :  ventilation,pressure,duct,relief,non,gas,off,fire,balancing,damper
+
+Cluster 27 :  for,with,temperature,material,pipe,polyurethane,dual,or,shoe,stop
+
+Cluster 28 :  electrical,packaging,электрооборудования,instrumentation,кип,упаковочный,sheet,заказа,ordering,лист
+
+Cluster 29 :  impact,in,with,temperature,material,pipe,polyurethane,dual,or,shoe
+
+Cluster 30 :  iso,l7,washer,lg,m16,cl8,гайка,heavy,hex,nut
+
+Cluster 31 :  lower,pallet,thk,dia,upper,std,sliding,plate,мм,mm
+
+Cluster 32 :  sb200,m12,screw,cl8,a1,spring,stainless,шайба,m8,washer
+
+Cluster 33 :  l7,hexagonal,болт,length,gr,threaded,iso,nuts,stud,bolt
+
+Cluster 34 :  exhaust,cap,kt,pos,gt,_ventilation,ventilation,ring,duct,joint
+
+Cluster 35 :  pump,coupling,oil,struts,motor,water,valve,filter,air,seal
+
+Cluster 36 :  gtg,gtc,protection,set,flare,radiation,enclosure,heated,flexible,non
+
+Cluster 37 :  прокладка,дюйма,кожуха,для,винт,lm9000,gt,_gas,gas,turbine
