@@ -30,8 +30,8 @@ from telegram.ext import (
     , filters
 )
 
-gv_token = '6169575085:AAGhabHohTffKnJrW9vVzTN3RO5FfenWTwk'
-PAYMENT_PROVIDER_TOKEN = "381764678:TEST:65950"
+gv_token = '
+PAYMENT_PROVIDER_TOKEN = ""
 
 # Enable logging
 logging.basicConfig(
